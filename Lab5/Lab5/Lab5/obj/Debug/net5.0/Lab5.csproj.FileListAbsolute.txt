@@ -1,0 +1,16 @@
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\bin\Debug\net5.0\Lab5.exe
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\bin\Debug\net5.0\Lab5.deps.json
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\bin\Debug\net5.0\Lab5.runtimeconfig.json
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\bin\Debug\net5.0\Lab5.runtimeconfig.dev.json
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\bin\Debug\net5.0\Lab5.dll
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\bin\Debug\net5.0\ref\Lab5.dll
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\bin\Debug\net5.0\Lab5.pdb
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\obj\Debug\net5.0\Lab5.csproj.AssemblyReference.cache
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\obj\Debug\net5.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\obj\Debug\net5.0\Lab5.AssemblyInfoInputs.cache
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\obj\Debug\net5.0\Lab5.AssemblyInfo.cs
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\obj\Debug\net5.0\Lab5.csproj.CoreCompileInputs.cache
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\obj\Debug\net5.0\Lab5.dll
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\obj\Debug\net5.0\ref\Lab5.dll
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\obj\Debug\net5.0\Lab5.pdb
+C:\Facultate\Anul 3\PDP\Lab5\Lab5\Lab5\obj\Debug\net5.0\Lab5.genruntimeconfig.cache
