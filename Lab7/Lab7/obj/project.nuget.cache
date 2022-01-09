@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "igaUW8cqYvHVZwEiPsX3KWRgk72apQf0TZVdPEmyyjeAZ9xt0vf6JoJy6kx6pGhJDN0qBOaIaenSenvaRkqwrA==",
+  "success": true,
+  "projectFilePath": "C:\\Facultate\\Anul 3\\PDP\\Lab7\\Lab7\\Lab7\\Lab7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giurg\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\giurg\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\giurg\\.nuget\\packages\\mpi.net\\1.4.0\\mpi.net.1.4.0.nupkg.sha512",
+    "C:\\Users\\giurg\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\giurg\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\giurg\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\giurg\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\giurg\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\giurg\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\giurg\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\giurg\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

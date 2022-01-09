@@ -1,0 +1,17 @@
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\obj\Debug\net5.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\obj\Debug\net5.0\Lab7.AssemblyInfoInputs.cache
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\obj\Debug\net5.0\Lab7.AssemblyInfo.cs
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\obj\Debug\net5.0\Lab7.csproj.CoreCompileInputs.cache
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\bin\Debug\net5.0\Lab7.exe
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\bin\Debug\net5.0\Lab7.deps.json
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\bin\Debug\net5.0\Lab7.runtimeconfig.json
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\bin\Debug\net5.0\Lab7.runtimeconfig.dev.json
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\bin\Debug\net5.0\Lab7.dll
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\bin\Debug\net5.0\ref\Lab7.dll
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\bin\Debug\net5.0\Lab7.pdb
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\obj\Debug\net5.0\Lab7.dll
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\obj\Debug\net5.0\ref\Lab7.dll
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\obj\Debug\net5.0\Lab7.pdb
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\obj\Debug\net5.0\Lab7.genruntimeconfig.cache
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\bin\Debug\net5.0\MPI.dll
+C:\Facultate\Anul 3\PDP\Lab7\Lab7\Lab7\obj\Debug\net5.0\Lab7.csproj.CopyComplete
