@@ -1,0 +1,30 @@
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\bin\Debug\net6.0\PuzzleProblemParallel.exe
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\bin\Debug\net6.0\PuzzleProblemParallel.deps.json
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\bin\Debug\net6.0\PuzzleProblemParallel.runtimeconfig.json
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\bin\Debug\net6.0\PuzzleProblemParallel.dll
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\bin\Debug\net6.0\ref\PuzzleProblemParallel.dll
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\bin\Debug\net6.0\PuzzleProblemParallel.pdb
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.csproj.AssemblyReference.cache
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.AssemblyInfoInputs.cache
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.AssemblyInfo.cs
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.csproj.CoreCompileInputs.cache
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.dll
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\obj\Debug\net6.0\ref\PuzzleProblemParallel.dll
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.pdb
+C:\Facultate\Anul 3\PDP\Proiect\Parallel-And-Distributed-Programming\Proiect\PuzzleProblemParallel\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.genruntimeconfig.cache
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\bin\Debug\net6.0\PuzzleProblemParallel.exe
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\bin\Debug\net6.0\PuzzleProblemParallel.deps.json
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\bin\Debug\net6.0\PuzzleProblemParallel.runtimeconfig.json
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\bin\Debug\net6.0\PuzzleProblemParallel.dll
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\bin\Debug\net6.0\ref\PuzzleProblemParallel.dll
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\bin\Debug\net6.0\PuzzleProblemParallel.pdb
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.csproj.AssemblyReference.cache
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.AssemblyInfoInputs.cache
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.AssemblyInfo.cs
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.csproj.CoreCompileInputs.cache
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.dll
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\obj\Debug\net6.0\ref\PuzzleProblemParallel.dll
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.pdb
+C:\Facultate\Anul 3\PDP\Proiect Final\PuzzleProblemParallel\obj\Debug\net6.0\PuzzleProblemParallel.genruntimeconfig.cache
