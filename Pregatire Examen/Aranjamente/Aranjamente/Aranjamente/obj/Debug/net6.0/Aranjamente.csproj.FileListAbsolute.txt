@@ -1,0 +1,15 @@
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\bin\Debug\net6.0\Aranjamente.exe
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\bin\Debug\net6.0\Aranjamente.deps.json
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\bin\Debug\net6.0\Aranjamente.runtimeconfig.json
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\bin\Debug\net6.0\Aranjamente.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\bin\Debug\net6.0\ref\Aranjamente.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\bin\Debug\net6.0\Aranjamente.pdb
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\obj\Debug\net6.0\Aranjamente.csproj.AssemblyReference.cache
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\obj\Debug\net6.0\Aranjamente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\obj\Debug\net6.0\Aranjamente.AssemblyInfoInputs.cache
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\obj\Debug\net6.0\Aranjamente.AssemblyInfo.cs
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\obj\Debug\net6.0\Aranjamente.csproj.CoreCompileInputs.cache
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\obj\Debug\net6.0\Aranjamente.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\obj\Debug\net6.0\ref\Aranjamente.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\obj\Debug\net6.0\Aranjamente.pdb
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\Aranjamente\Aranjamente\Aranjamente\obj\Debug\net6.0\Aranjamente.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\bin\Debug\net6.0\NumberOfPermutations.exe
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\bin\Debug\net6.0\NumberOfPermutations.deps.json
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\bin\Debug\net6.0\NumberOfPermutations.runtimeconfig.json
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\bin\Debug\net6.0\NumberOfPermutations.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\bin\Debug\net6.0\ref\NumberOfPermutations.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\bin\Debug\net6.0\NumberOfPermutations.pdb
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\obj\Debug\net6.0\NumberOfPermutations.csproj.AssemblyReference.cache
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\obj\Debug\net6.0\NumberOfPermutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\obj\Debug\net6.0\NumberOfPermutations.AssemblyInfoInputs.cache
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\obj\Debug\net6.0\NumberOfPermutations.AssemblyInfo.cs
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\obj\Debug\net6.0\NumberOfPermutations.csproj.CoreCompileInputs.cache
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\obj\Debug\net6.0\NumberOfPermutations.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\obj\Debug\net6.0\ref\NumberOfPermutations.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\obj\Debug\net6.0\NumberOfPermutations.pdb
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PermutationsOfN\NumberOfPermutations\NumberOfPermutations\obj\Debug\net6.0\NumberOfPermutations.genruntimeconfig.cache
