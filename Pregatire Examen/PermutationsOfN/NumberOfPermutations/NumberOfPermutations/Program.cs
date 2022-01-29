@@ -1,49 +1,47 @@
-﻿
+﻿var resultList = new List<List<int>>();
 var numbers = Enumerable.Range(1, 5).ToArray();
-var tasks = new List<Task>();
+var threads = new List<Thread>();
 
-PrintResult(Permute(numbers, tasks));
+Permute(numbers, resultList,threads);
+threads.ForEach(thread => thread.Start());
+threads.ForEach(thread => thread.Join());
 
-static IList<IList<int>> Permute(int[] numbers, List<Task> tasks)
+Console.WriteLine(resultList.Count);
+
+
+void Permute(int[] numbers, List<List<int>> resultList, List<Thread> threads)
 {
-    var list = new List<IList<int>>();
-    return DoPermute(numbers, 0, numbers.Length - 1, list, tasks);
+    DoPermute(numbers, 0, numbers.Length - 1, resultList, threads);
 }
 
-static IList<IList<int>> DoPermute(int[] numbers, int start, int end, IList<IList<int>> list, List<Task> tasks)
-{
-    if (start == end)
+ void DoPermute(int[] numbers, int start, int end, List<List<int>> list, List<Thread> threads)
+ {
+     if (start == end)
     {
-        // We have one of our possible n! solutions,
-        // add it to the list.
-        list.Add(new List<int>(numbers));
+        threads.Add(new Thread(() => { Condition(numbers, list);}));
     }
     else
     {
         for (var i = start; i <= end; i++)
         {
             Swap(ref numbers[start], ref numbers[i]);
-            DoPermute(numbers, start + 1, end, list, tasks);
+            DoPermute(numbers, start + 1, end, list, threads);
             Swap(ref numbers[start], ref numbers[i]);
         }
     }
-
-    return list;
-}
+ }
 
 static void Swap(ref int a, ref int b)
 {
     (a, b) = (b, a);
 }
 
-static void PrintResult(IList<IList<int>> lists)
+static void Condition(int[] numbers, List<List<int>> resultList)
 {
-    Console.WriteLine("[");
-    foreach (var list in lists)
+    if (Pred(numbers))
     {
-        Console.WriteLine($"    [{string.Join(',', list)}]");
+        resultList.Add(new List<int>(numbers));
     }
-    Console.WriteLine("]");
 }
 
-static bool Pred(List<int> numbers) => numbers.SequenceEqual(Enumerable.Range(1, 5).ToList());
+static bool Pred(int[] numbers) => numbers.SequenceEqual(Enumerable.Range(1, 5).ToList());
