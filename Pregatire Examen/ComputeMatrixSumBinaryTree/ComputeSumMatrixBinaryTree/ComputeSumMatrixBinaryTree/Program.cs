@@ -1,21 +1,31 @@
 ﻿using ComputeSumMatrixBinaryTree;
 
+var tasks = new List<Task<int?>>();
 var matrix = ConstructMatrix(4);
 
-var binaryTree = ConstructBinaryTree(matrix);
+var binaryTree = new Tree();
+binaryTree.Root = binaryTree.InsertLevelOrder(ValuesFromMatrix(matrix), binaryTree.Root, 0);
+GetTasks(binaryTree.Root, tasks);
+var sum = binaryTree.Root.Value;
 
-Console.WriteLine(CalculateSum(binaryTree[0]));
+Task.WaitAll(tasks.ToArray());
+Parallel.ForEach(tasks, task => Interlocked.Add(ref sum, task.Result ?? 0));
+Console.WriteLine(sum);
 
-static int CalculateSum(Node node)
+static void GetTasks(Node? node, List<Task<int?>> tasks)
 {
     if (node == null)
     {
-        return 0;
+        return;
     }
-    return CalculateSum(node.Left) + CalculateSum(node.Right) + node.Value;
+
+    tasks.Add(Task.Run(() => node.Left?.Value + node.Right?.Value));
+
+    GetTasks(node.Left, tasks);
+    GetTasks(node.Right, tasks);
 }
 
-static List<Node> ConstructBinaryTree(int[][] matrix)
+static List<int> ValuesFromMatrix(int[][] matrix)
 {
     var valuesFromMatrix = new List<int>();
 
@@ -27,63 +37,7 @@ static List<Node> ConstructBinaryTree(int[][] matrix)
         }
     }
 
-
-    var nodes = new List<Node>();
-
-    for (int i = 0; i < valuesFromMatrix.Count; i++)
-    {
-        var leftChild = new Node();
-        var rightChild = new Node();
-        var currentNode = new Node();
-
-        if (i == 0)
-        {
-            leftChild.Value = valuesFromMatrix[i + 1];
-
-            rightChild.Value = valuesFromMatrix[i + 2];
-
-            currentNode.Value = valuesFromMatrix[i];
-            currentNode.Left = leftChild;
-            currentNode.Right = rightChild;
-
-            i += 2;
-        }
-        else if (i < valuesFromMatrix.Count)
-        {
-            if (i + 1 < valuesFromMatrix.Count)
-            {
-                leftChild.Value = valuesFromMatrix[i + 1];
-            }
-
-            if (i + 2 < valuesFromMatrix.Count)
-            {
-                rightChild.Value = valuesFromMatrix[i + 2];
-            }
-
-
-            currentNode.Value = valuesFromMatrix[i];
-            currentNode.Left = leftChild;
-            currentNode.Right = rightChild;
-
-            if (i % 2 == 1)
-            {
-                nodes[nodes.Count - 1].Left = currentNode;
-            }
-            else
-            {
-
-                if (i % 2 == 1)
-                {
-                    nodes[nodes.Count - 1].Right = currentNode;
-                }
-            }
-
-            i += 2;
-        }
-        nodes.Add(currentNode);
-    }
-
-    return nodes;
+    return valuesFromMatrix;
 }
 
 
@@ -95,7 +49,7 @@ static int[][] ConstructMatrix(int numberOfColumns)
         matrix[i] = new int[numberOfColumns];
     }
 
-    int count = 1;
+    var count = 1;
 
     for (var i = 0; i < matrix.Length; i++)
     {
@@ -108,7 +62,3 @@ static int[][] ConstructMatrix(int numberOfColumns)
 
     return matrix;
 }
-
-
-
-
