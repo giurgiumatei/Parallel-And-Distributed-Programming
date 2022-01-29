@@ -1,0 +1,17 @@
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\bin\Debug\net6.0\QuicksortMPI.exe
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\bin\Debug\net6.0\QuicksortMPI.deps.json
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\bin\Debug\net6.0\QuicksortMPI.runtimeconfig.json
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\bin\Debug\net6.0\QuicksortMPI.dll
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\bin\Debug\net6.0\ref\QuicksortMPI.dll
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\bin\Debug\net6.0\QuicksortMPI.pdb
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\obj\Debug\net6.0\QuicksortMPI.csproj.AssemblyReference.cache
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\obj\Debug\net6.0\QuicksortMPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\obj\Debug\net6.0\QuicksortMPI.AssemblyInfoInputs.cache
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\obj\Debug\net6.0\QuicksortMPI.AssemblyInfo.cs
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\obj\Debug\net6.0\QuicksortMPI.csproj.CoreCompileInputs.cache
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\obj\Debug\net6.0\QuicksortMPI.dll
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\obj\Debug\net6.0\ref\QuicksortMPI.dll
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\obj\Debug\net6.0\QuicksortMPI.pdb
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\obj\Debug\net6.0\QuicksortMPI.genruntimeconfig.cache
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\bin\Debug\net6.0\MPI.dll
+C:\Users\giurg\Desktop\PDP\QuicksortMPI\QuicksortMPI\QuicksortMPI\obj\Debug\net6.0\QuicksortMPI.csproj.CopyComplete

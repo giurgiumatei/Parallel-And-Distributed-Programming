@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4bf67130-ac7a-454b-8c78-618c2d5a81bb": {
+      "ProjectGuid": "4bf67130-ac7a-454b-8c78-618c2d5a81bb",
+      "DisplayName": "QuicksortMPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

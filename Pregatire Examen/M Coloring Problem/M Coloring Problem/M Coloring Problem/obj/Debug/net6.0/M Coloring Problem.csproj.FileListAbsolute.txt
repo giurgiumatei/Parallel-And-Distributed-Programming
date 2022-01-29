@@ -1,0 +1,15 @@
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\bin\Debug\net6.0\M Coloring Problem.exe
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\bin\Debug\net6.0\M Coloring Problem.deps.json
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\bin\Debug\net6.0\M Coloring Problem.runtimeconfig.json
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\bin\Debug\net6.0\M Coloring Problem.dll
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\bin\Debug\net6.0\ref\M Coloring Problem.dll
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\bin\Debug\net6.0\M Coloring Problem.pdb
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\obj\Debug\net6.0\M Coloring Problem.csproj.AssemblyReference.cache
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\obj\Debug\net6.0\M Coloring Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\obj\Debug\net6.0\M Coloring Problem.AssemblyInfoInputs.cache
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\obj\Debug\net6.0\M Coloring Problem.AssemblyInfo.cs
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\obj\Debug\net6.0\M Coloring Problem.csproj.CoreCompileInputs.cache
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\obj\Debug\net6.0\M Coloring Problem.dll
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\obj\Debug\net6.0\ref\M Coloring Problem.dll
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\obj\Debug\net6.0\M Coloring Problem.pdb
+C:\Users\giurg\Desktop\PDP\M Coloring Problem\M Coloring Problem\M Coloring Problem\obj\Debug\net6.0\M Coloring Problem.genruntimeconfig.cache

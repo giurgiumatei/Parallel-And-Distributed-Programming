@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e61d9ad-c660-4b00-aa69-13fa13d1305d": {
+      "ProjectGuid": "5e61d9ad-c660-4b00-aa69-13fa13d1305d",
+      "DisplayName": "M Coloring Problem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

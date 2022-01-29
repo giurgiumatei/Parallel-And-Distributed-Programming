@@ -1,0 +1,15 @@
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\bin\Debug\net6.0\ComputeSumMatrixBinaryTree.exe
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\bin\Debug\net6.0\ComputeSumMatrixBinaryTree.deps.json
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\bin\Debug\net6.0\ComputeSumMatrixBinaryTree.runtimeconfig.json
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\bin\Debug\net6.0\ComputeSumMatrixBinaryTree.dll
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\bin\Debug\net6.0\ref\ComputeSumMatrixBinaryTree.dll
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\bin\Debug\net6.0\ComputeSumMatrixBinaryTree.pdb
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\obj\Debug\net6.0\ComputeSumMatrixBinaryTree.csproj.AssemblyReference.cache
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\obj\Debug\net6.0\ComputeSumMatrixBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\obj\Debug\net6.0\ComputeSumMatrixBinaryTree.AssemblyInfoInputs.cache
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\obj\Debug\net6.0\ComputeSumMatrixBinaryTree.AssemblyInfo.cs
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\obj\Debug\net6.0\ComputeSumMatrixBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\obj\Debug\net6.0\ComputeSumMatrixBinaryTree.dll
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\obj\Debug\net6.0\ref\ComputeSumMatrixBinaryTree.dll
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\obj\Debug\net6.0\ComputeSumMatrixBinaryTree.pdb
+C:\Users\giurg\Desktop\PDP\ComputeMatrixSumBinaryTree\ComputeSumMatrixBinaryTree\ComputeSumMatrixBinaryTree\obj\Debug\net6.0\ComputeSumMatrixBinaryTree.genruntimeconfig.cache
