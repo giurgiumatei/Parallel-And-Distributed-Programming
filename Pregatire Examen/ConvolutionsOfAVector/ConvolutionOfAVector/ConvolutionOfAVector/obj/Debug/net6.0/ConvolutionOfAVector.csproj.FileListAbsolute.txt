@@ -1,0 +1,15 @@
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\bin\Debug\net6.0\ConvolutionOfAVector.exe
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\bin\Debug\net6.0\ConvolutionOfAVector.deps.json
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\bin\Debug\net6.0\ConvolutionOfAVector.runtimeconfig.json
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\bin\Debug\net6.0\ConvolutionOfAVector.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\bin\Debug\net6.0\ref\ConvolutionOfAVector.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\bin\Debug\net6.0\ConvolutionOfAVector.pdb
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\obj\Debug\net6.0\ConvolutionOfAVector.csproj.AssemblyReference.cache
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\obj\Debug\net6.0\ConvolutionOfAVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\obj\Debug\net6.0\ConvolutionOfAVector.AssemblyInfoInputs.cache
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\obj\Debug\net6.0\ConvolutionOfAVector.AssemblyInfo.cs
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\obj\Debug\net6.0\ConvolutionOfAVector.csproj.CoreCompileInputs.cache
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\obj\Debug\net6.0\ConvolutionOfAVector.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\obj\Debug\net6.0\ref\ConvolutionOfAVector.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\obj\Debug\net6.0\ConvolutionOfAVector.pdb
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\ConvolutionsOfAVector\ConvolutionOfAVector\ConvolutionOfAVector\obj\Debug\net6.0\ConvolutionOfAVector.genruntimeconfig.cache

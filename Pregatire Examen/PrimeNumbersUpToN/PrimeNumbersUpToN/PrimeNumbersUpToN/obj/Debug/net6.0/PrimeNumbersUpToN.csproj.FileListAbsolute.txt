@@ -1,0 +1,17 @@
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\bin\Debug\net6.0\PrimeNumbersUpToN.exe
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\bin\Debug\net6.0\PrimeNumbersUpToN.deps.json
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\bin\Debug\net6.0\PrimeNumbersUpToN.runtimeconfig.json
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\bin\Debug\net6.0\PrimeNumbersUpToN.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\bin\Debug\net6.0\ref\PrimeNumbersUpToN.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\bin\Debug\net6.0\PrimeNumbersUpToN.pdb
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\bin\Debug\net6.0\MPI.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\obj\Debug\net6.0\PrimeNumbersUpToN.csproj.AssemblyReference.cache
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\obj\Debug\net6.0\PrimeNumbersUpToN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\obj\Debug\net6.0\PrimeNumbersUpToN.AssemblyInfoInputs.cache
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\obj\Debug\net6.0\PrimeNumbersUpToN.AssemblyInfo.cs
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\obj\Debug\net6.0\PrimeNumbersUpToN.csproj.CoreCompileInputs.cache
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\obj\Debug\net6.0\PrimeNumbersUpToN.csproj.CopyComplete
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\obj\Debug\net6.0\PrimeNumbersUpToN.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\obj\Debug\net6.0\ref\PrimeNumbersUpToN.dll
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\obj\Debug\net6.0\PrimeNumbersUpToN.pdb
+C:\Facultate\Anul 3\PDP\Parallel-And-Distributed-Programming\Pregatire Examen\PrimeNumbersUpToN\PrimeNumbersUpToN\PrimeNumbersUpToN\obj\Debug\net6.0\PrimeNumbersUpToN.genruntimeconfig.cache

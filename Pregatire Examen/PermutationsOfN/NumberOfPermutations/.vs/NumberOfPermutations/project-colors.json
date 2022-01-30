@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36ab1712-664f-4b93-b62f-5d740cc71940": {
+      "ProjectGuid": "36ab1712-664f-4b93-b62f-5d740cc71940",
+      "DisplayName": "NumberOfPermutations",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
